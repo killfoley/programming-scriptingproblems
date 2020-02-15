@@ -7,7 +7,8 @@ print(x)
 
 while x != 1:
     if x % 2 == 0:
-        x = x // 2
+#// operator discards remainer. Returns int
+        x = x // 2 
         print(x)
 
     elif x % 2 != 0:
