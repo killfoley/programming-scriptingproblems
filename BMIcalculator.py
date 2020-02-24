@@ -14,8 +14,8 @@ BMI = weight / (height**2)
 BMI = round(BMI, 1)
 
 #print("Your BMI is", BMI)
-
-#If loop to return BMI information to user
+#I wanted to give the user feedback about their BMI
+#Found some code on https://codereview.stackexchange.com/questions/210592/bmi-calculator-in-python-using-if-statements
 
 if BMI < 18.5:
     print("Your BMI is", BMI, "You are under weight")
