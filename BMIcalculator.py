@@ -20,7 +20,7 @@ BMI = round(BMI, 1)
 if BMI < 18.5:
     print("Your BMI is", BMI, "You are under weight")
 
-elif BMI > 18.5 and BMI <= 24.9:
+elif BMI >= 18.5 and BMI <= 24.9:
     print("Your BMI is", BMI, "You are a healthy weight")
 
 elif BMI > 25 and BMI <= 29.9:
