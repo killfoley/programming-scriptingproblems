@@ -1,16 +1,19 @@
 #This program takes a user input of any positive integer 
 # and outputs the successive values of the following calculation
+#If it is even, it is divided by 2
+#if it is odd it is multiplied by 3 and adds 1.
+#Program ends when current value is 1
 
-x = int(input("Please enter a positive integer: "))
+number = int(input("Please enter a positive integer: "))
 
-print(x)
+print(number)
 
-while x != 1:
-    if x % 2 == 0:
+while number != 1:
+    if number % 2 == 0:
 #// operator discards remainer. Returns int
-        x = x // 2 
-        print("{}".format(x))
+        number = number // 2 
+        print("{}".format(number))
 
-    elif x % 2 != 0:
-        x = x * 3 + 1
-        print("{}".format(x))
+    elif number % 2 != 0:
+        number = number * 3 + 1
+        print("{}".format(number))
