@@ -8,7 +8,7 @@ def sqrt(a):
     x = 0.5 * a
     y = 0.5 * (x + a / x)
     #exectue while loop until new result of calculation does not become more accurate than previous
-    while y != x:
+    for i in range(20):
         x = y
         y = 0.5 * (x + a / x)
     return x
