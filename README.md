@@ -13,7 +13,7 @@ Visual Studio code was used to write, edit and compile the code
 https://code.visualstudio.com/
 
 
-### Program order
+### Program Order & Description
 #### 1. BMIcalculator.py
 This program requires the user to input their height and weight, returns their BMI and what category they fall in.
 
@@ -34,9 +34,16 @@ This program reads in a positive floatin-point number and returns the approximat
 https://en.wikipedia.org/wiki/Newton%27s_method
 
 #### 6. es.py
-
+This program reads in a text file using the filename on the command line and returns the number of "e"s in the document. 
 
 #### 7. plot.py
+This program plots the functions
+f(x)=x
+g(x)=x<sup>2</sup>
+h(x)=x<sup>3</sup>
+in the range [0, 4] on one set of axes.
+
+
 
 Below is an example of how to run the first program and what it's inputs/ outputs are
 
