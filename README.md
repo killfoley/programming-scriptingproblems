@@ -1,4 +1,4 @@
-![](Images/GMIT_Logo.png)
+![GMIT Logo](Images/GMIT_Logo.png)
 
 # Programming and Scripting Problem Sheet
 
@@ -10,8 +10,12 @@ The scripts located in this repository are examples of how to use various progra
 ## Prerequisites
 Anaconda - a data science package containing Python 3.7 and various other Python add-ons and packages was downloaded and installed for this module.<br/>https://www.anaconda.com/
 
-Visual Studio code was used to write, edit and run the code.<br/>https://code.visualstudio.com/
-
+Visual Studio code was used to write, edit and run the code.
+<br/>https://code.visualstudio.com/
+<br/>
+<br/>The below image is a screen shot of visual studio code. The window is split into three. The left split shows the files/ folders contined in the current directory. The middle split is where the code is written and the right split is the terminal (MacOs) where the code is exectuded.
+<br/>
+<br/>![VSC screenshot](Images/visualstudiocode.png)
 
 ## Program Order & Description
 
@@ -31,7 +35,7 @@ The program ends if current value is 1.
 This program uses the datetime module in Python to return if today is a weekday or not.
 
 #### 5. squareroot.py
-This program reads in a positive floatin-point number and returns the approximate square root. "Newton's Methon" is used for the calculation. [*Wikipedia Newton's Method] https://en.wikipedia.org/wiki/Newton%27s_method*
+This program reads in a positive floatin-point number and returns the approximate square root. "Newton's Methon" is used for the calculation. *[Wikipedia Newton's Method] https://en.wikipedia.org/wiki/Newton%27s_method*
 
 #### 6. es.py
 This program reads in a text file using the filename on the command line and returns the number of "e"s in the document. 
@@ -47,5 +51,7 @@ Python scripts are run on the command line. The user must first navigate to the 
 
 Any further user inputs can then be performed following prompts on the command line.
 
-Below is an example of how to run the first program and what it's inputs/ outputs are
+## Example
+Below are 2 gifs of how the collatz.py program functions.
+
 
