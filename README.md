@@ -15,20 +15,27 @@ https://code.visualstudio.com/
 
 ### Program order
 #### 1. BMIcalculator.py
-This program takes the users height and weight, returns their BMI and what category they fall in
+This program requires the user to input their height and weight, returns their BMI and what category they fall in.
 
 #### 2. secondstring.py
-This program reads in a string from the user and returns every second character in reverse order
+This program reads in a string from the user and returns every second character in reverse order.
 
 #### 3. collatz.py
-This program takes a positive integer from the user and outputs successive values from the following calculations.
+This program reads in a positive integer from the user and outputs successive values from the following calculations.
 If the number is even divide it by 2 - return that answer
 If the number is odd it is multilplied by 3 and 1 is added. 
 The program ends if current value is 1.
 
 #### 4. weekday.py
+This program uses the datetime module in Python to return if today is a weekday or not.
+
 #### 5. squareroot.py
+This program reads in a positive floatin-point number and returns the approximate square root. "Newton's Methon" is used for the calculation.
+https://en.wikipedia.org/wiki/Newton%27s_method
+
 #### 6. es.py
+
+
 #### 7. plot.py
 
 Below is an example of how to run the first program and what it's inputs/ outputs are
