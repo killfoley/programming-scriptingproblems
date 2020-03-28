@@ -22,4 +22,5 @@ while number != 1:
         list.append(number)
         #print("{}".format(number))
 
-print(*list, sep=' ')
+#Reference url: https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/
+print(*list)
