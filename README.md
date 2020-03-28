@@ -13,7 +13,7 @@ Anaconda - a data science package containing Python 3.7 and various other Python
 Visual Studio code was used to write, edit and run the code.
 <br/>https://code.visualstudio.com/
 <br/>
-<br/>The below image is a screen shot of visual studio code. The window is split into three. The left split shows the files/ folders contined in the current directory. The middle split is where the code is written and the right split is the terminal (Mac OS) where the code is exectuded.
+<br/>The below image is a screen shot of visual studio code. The window is split into three. The left split shows the files/ folders contained in the current directory. The middle split is where the code is written and the right split is the terminal (Mac OS) where the code is exectuded.
 <br/>
 <br/>![VSC screenshot](Images/visualstudiocode.png)
 
@@ -60,5 +60,17 @@ Below are 2 gifs of the collatz.py program running.
 <br/>
 ![collatz2.gif](Demo/collatz2.gif)
 <br/><br/>
+## Resources
+[Moodle course notes](https://learnonline.gmit.ie/course/view.php?id=1598)
+<br/>
+<br/>
+[A Whirlwind Tour of Python](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
+<br/>
+<br/>
+[The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html)
+<br/>
+<br/>
+Google
+<br/>
 ## Author
 Killian Foley
