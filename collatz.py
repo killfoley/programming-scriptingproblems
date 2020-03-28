@@ -6,14 +6,20 @@
 
 number = int(input("Please enter a positive integer: "))
 
-print(number)
+list = []
+
+list.append(number)
 
 while number != 1:
     if number % 2 == 0:
-#// operator discards remainer. Returns int
+#// operator discards remainder. Returns int
         number = number // 2 
-        print("{}".format(number))
+        list.append(number)
+        #print("{}".format(number))
 
     elif number % 2 != 0:
         number = number * 3 + 1
-        print("{}".format(number))
+        list.append(number)
+        #print("{}".format(number))
+
+print(*list, sep=' ')
