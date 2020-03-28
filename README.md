@@ -1,19 +1,20 @@
+
+
 # Programming and Scripting Problem Sheet
 
 
-### Introduction
-The scripts located in this repository are examples of how to use various programming techniques when learning Python as part of the Programming and Scripting module for the Data Analytics course (GMIT). These techniques include if/elif statements; for/while loops; mathematical operations; reading in a file, data plotting and so on. The following document describes how the scripts were designed, researched, written and executed to arrive at the desired outcome. 
+## Introduction
+The scripts located in this repository are examples of how to use various programming techniques when learning Python as part of the Programming and Scripting module for the Data Analytics course (GMIT). These techniques include if/elif statements; for/while loops; mathematical operations; reading in a file, data plotting and so on. The following README describes how the scripts were designed, researched, written and executed to arrive at the desired outcome. 
 
 
-### Prerequisites
-Anaconda - a data science package containing Python 3.7 and various other Python add-ons and packages was downloaded and installed for this module.
-https://www.anaconda.com/
+## Prerequisites
+Anaconda - a data science package containing Python 3.7 and various other Python add-ons and packages was downloaded and installed for this module.<br/>https://www.anaconda.com/
 
-Visual Studio code was used to write, edit and compile the code 
-https://code.visualstudio.com/
+Visual Studio code was used to write, edit and run the code.<br/>https://code.visualstudio.com/
 
 
-### Program Order & Description
+## Program Order & Description
+
 #### 1. BMIcalculator.py
 This program requires the user to input their height and weight, returns their BMI and what category they fall in.
 
@@ -38,6 +39,13 @@ This program reads in a text file using the filename on the command line and ret
 #### 7. plot.py
 This program plots the functions f(x)=x, g(x)=x<sup>2</sup>, h(x)=x<sup>3</sup> in the range [0, 4] on one set of axes.
 
+
+## Running the Code
+Python scripts are run on the command line. The user must first navigate to the directory containing the python program. The program is then run by typing the command<br/>
+
+> python filename.py
+
+Any further user inputs can then be performed following prompts on the command line.
 
 Below is an example of how to run the first program and what it's inputs/ outputs are
 
