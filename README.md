@@ -37,12 +37,7 @@ https://en.wikipedia.org/wiki/Newton%27s_method
 This program reads in a text file using the filename on the command line and returns the number of "e"s in the document. 
 
 #### 7. plot.py
-This program plots the functions
-f(x)=x
-g(x)=x<sup>2</sup>
-h(x)=x<sup>3</sup>
-in the range [0, 4] on one set of axes.
-
+This program plots the functions f(x)=x, g(x)=x<sup>2</sup>, h(x)=x<sup>3</sup> in the range [0, 4] on one set of axes.
 
 
 Below is an example of how to run the first program and what it's inputs/ outputs are
