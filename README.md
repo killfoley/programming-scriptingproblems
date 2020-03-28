@@ -2,7 +2,7 @@
 
 
 ### Introduction
-The scripts located in this repository are examples of how to use various programming techniques when learning Python as part of the Programming and Scripting module for the Data Analytics course (GMIT). These techniques include if/elif statements; for/while loops; mathematical operations; reading in a file and so on. The following document describes how the scripts were designed, researched, written and executed to arrive at the desired outcome. 
+The scripts located in this repository are examples of how to use various programming techniques when learning Python as part of the Programming and Scripting module for the Data Analytics course (GMIT). These techniques include if/elif statements; for/while loops; mathematical operations; reading in a file, data plotting and so on. The following document describes how the scripts were designed, researched, written and executed to arrive at the desired outcome. 
 
 
 ### Prerequisites
@@ -15,8 +15,17 @@ https://code.visualstudio.com/
 
 ### Program order
 #### 1. BMIcalculator.py
+This program takes the users height and weight, returns their BMI and what category they fall in
+
 #### 2. secondstring.py
+This program reads in a string from the user and returns every second character in reverse order
+
 #### 3. collatz.py
+This program takes a positive integer from the user and outputs successive values from the following calculations.
+If the number is even divide it by 2 - return that answer
+If the number is odd it is multilplied by 3 and 1 is added. 
+The program ends if current value is 1.
+
 #### 4. weekday.py
 #### 5. squareroot.py
 #### 6. es.py
