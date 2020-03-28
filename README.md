@@ -6,7 +6,7 @@ The scripts located in this repository are examples of how to use various progra
 
 
 ### Prerequisites
-Anaconda - a data science packaged containing Python 3.7 and various other Python add-ons and packages was downloaded and installed for this module.
+Anaconda - a data science package containing Python 3.7 and various other Python add-ons and packages was downloaded and installed for this module.
 https://www.anaconda.com/
 
 Visual Studio code was used to write, edit and compile the code 
