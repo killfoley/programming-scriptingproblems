@@ -1,4 +1,4 @@
-![](Images/GMIT_Logo.jpeg)
+![](Images/GMIT_Logo.png)
 
 # Programming and Scripting Problem Sheet
 
