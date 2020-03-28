@@ -30,7 +30,7 @@ The program ends if current value is 1.
 This program uses the datetime module in Python to return if today is a weekday or not.
 
 #### 5. squareroot.py
-This program reads in a positive floatin-point number and returns the approximate square root. "Newton's Methon" is used for the calculation. Wikipedia Newton's Method]https://en.wikipedia.org/wiki/Newton%27s_method
+This program reads in a positive floatin-point number and returns the approximate square root. "Newton's Methon" is used for the calculation. [Wikipedia Newton's Method] https://en.wikipedia.org/wiki/Newton%27s_method
 
 #### 6. es.py
 This program reads in a text file using the filename on the command line and returns the number of "e"s in the document. 
