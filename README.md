@@ -1,5 +1,17 @@
 # Programming and Scripting Problem Sheet
-This is a repository of the programming and scripting weekly problems by Killian Foley
+
+
+###Introduction
+The scripts located in this repository are examples of how to use various programming techniques when learning Python as part of the Programming and Scripting module for the Data Analytics course (GMIT). These techniques include if/elif statements; for/while loops; mathematical operations; reading in a file and so on. The following document describes how the scripts were designed, researched, written and executed to arrive at the desired outcome. 
+
+
+###Prerequisites
+Anaconda - a data science packaged containing Python 3.7 and various other Python add-ons and packages was downloaded and installed for this module.
+https://www.anaconda.com/
+
+Visual Studio code was used to write, edit and compile the code 
+https://code.visualstudio.com/
+
 
 ### Program order
 #### 1. BMIcalculator.py
