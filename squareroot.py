@@ -11,9 +11,9 @@ def sqrt(a, TOL=0.0001):
     for i in range(20):
         x = y
         y = 0.5 * (x + a / x)
-        if abs(y - x**2) < TOL:
+        if abs(y - x) < TOL:
             break    
     return x
 
 #print result rounding to 1 decimal    
-print("The square root of", a, "is approx.", round(sqrt(a), 5))
+print("The square root of", a, "is approx.", round(sqrt(a), 1))
