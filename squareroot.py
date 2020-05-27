@@ -8,7 +8,7 @@ def sqrt(a, TOL=0.0001):
     x = 0.5 * a
     y = 0.5 * (x + a / x)
     #exectue while loop until new result of calculation does not become more accurate than previous
-    for i in range(20):
+    while True:
         x = y
         y = 0.5 * (x + a / x)
         if abs(y - x) < TOL:
